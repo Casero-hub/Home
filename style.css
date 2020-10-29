@@ -29,16 +29,16 @@ body {
 .ig {
 	height: 125px;
 	width: 125px;
-	margin-top: -790pxpx;
-	margin-left: 275px;
+	margin-top: 10px;
+	margin-left: 10px;
 	background-color: #3f729b;
 }
 
 .gmail {
 	height: 125px;
 	width: 125px;
-	margin-top: 10px;
-	margin-left: 10px;
+	margin-top: -530px;
+	margin-left: 145px;
 	background-color: #db4a39;
 }
 
@@ -46,7 +46,7 @@ body {
 	height: 125px;
 	width: 125px;
 	margin-top: 10px;
-	margin-left: 10px;
+	margin-left: 145px;
 	background-color: #00bb2d;
 }
 
@@ -54,7 +54,7 @@ body {
 	height: 125px;
 	width: 125px;
 	margin-top: 10px;
-	margin-left: 10px;
+	margin-left: 145px;
 	background-color: #ECAF05;
 }
 
@@ -62,7 +62,7 @@ body {
 	height: 125px;
 	width: 125px;
 	margin-top: 10px;
-	margin-left: 10px;
+	margin-left: 145px;
 	background-color: #FF4500;
 }
 
